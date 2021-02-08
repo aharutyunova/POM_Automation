@@ -35,7 +35,7 @@ try:
 
     assert radiobutton in rdb.get_message_text(), base_page.save_screen(browser,filename)
     print('uraaaaa')
-    Print('uraaaaa 2')
+    Print('uraaaaa 3')
 finally:
     base_page.close_browser(browser)
 
