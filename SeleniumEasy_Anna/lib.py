@@ -15,6 +15,7 @@ class Base:
         filename=os.path.basename(sys.argv[0][:-3])
         print(sys.argv)
         print('teststststststststststs')
+        print("Armen test")
         return filename
 
     def save_screen(self, browser,current_file):
