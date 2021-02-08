@@ -20,6 +20,7 @@ class Main:
     def open_page(self):
         self.browser.get(self.url)
         self.browser.maximize_window()
+        ##print(Hi)AddedByM
         try:
             close_icon = WebDriverWait(self.browser, 10).until(
                 EC.visibility_of_element_located(self.popup))
