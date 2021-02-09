@@ -16,7 +16,7 @@ try:
     # Set up test case data
     submenu_link          = testdata.data['submenu']
     select_menu_link      = testdata.data['mainmenu']
-    radiobutton           = testdata.data['radiobutton']
+    radiobutton           = testdata.data['radiobutton2']
 
 
     # Create Main class object and use class's methods
