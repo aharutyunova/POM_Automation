@@ -2,8 +2,10 @@ data={
     "url": "https://www.seleniumeasy.com/test/",
     "mainmenu": "Input Forms",
     "submenu": "Radio Buttons Demo",
-    "radiobutton": "Female"
-    
+
+    "radiobutton1": "Male"
+    "radiobutton2": "Female"
+ 
 }
 
 

@@ -5,7 +5,7 @@ import sys
 class Base:
 
     def browser(self):
-        browser = webdriver.Chrome(r'C:\Program Files\Google\Chrome\Application\chromedriver.exe')
+        browser = webdriver.Chrome(r'C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe')
         return browser
 
     def close_browser(self, browser):
