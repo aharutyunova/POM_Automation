@@ -4,8 +4,7 @@ data={
     "submenu": "Radio Buttons Demo",
 
     "radiobutton1": "Male"
-    "radiobutton2": "Female"
- 
+    
 }
 
 
