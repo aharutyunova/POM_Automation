@@ -14,9 +14,9 @@ try:
     browser = base_page.browser()
 
     # Set up test case data
-    submenu_link          = testdata.data['submenu']
-    select_menu_link      = testdata.data['mainmenu']
-    radiobutton           = testdata.data['radiobutton2']
+    submenu_link= testdata.data['submenu']
+    select_menu_link= testdata.data['mainmenu']
+    radiobutton= testdata.data['radiobutton1']
 
 
     # Create Main class object and use class's methods
