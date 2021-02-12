@@ -6,8 +6,6 @@ from SeleniumEasy_Anna.Pages.radiobutton import Radiobutton
 from SeleniumEasy_Anna import testdata
 import sys
 
-
-
 try:
 #Activate Chrome browser
     base_page=Base()
