@@ -1,0 +1,7 @@
+{   
+    "driver_path":"C:/Program Files/Google/Chrome/Application/chromedriver.exe",
+    "url": "http://automationpractice.com/index.php",
+    "eMail": "an.harutyunova@gmail.com",
+    "password":"Admin"
+}
+

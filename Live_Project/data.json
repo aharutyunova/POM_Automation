@@ -1,0 +1,16 @@
+{
+    "search_word":"t-shirts",
+    "references":"565656",
+    "contact_us_success_message":"Your message has been successfully sent to our team.",
+    "contact_us_error_message": "The message cannot be blank.",
+    "contuct_us_input_message": "Here is my message.",
+    "create_an_account_error_message":"Invalid email address.",
+    "invalid_email":"test@",
+    "valid_email": "test@gmail.com",
+    "not existing_email":"test@tt.tt",
+    "forgot_password_error_message":"There is no account registered for this email address.",
+    "sign_in_error_message":"Authentication failed.",
+    "subject_heading":"Webmaster",
+    "add_to_cart_success_message":"Product successfully added to your shopping cart"
+}
+
